@@ -1,0 +1,2 @@
+class BdayCard < ApplicationRecord
+end
